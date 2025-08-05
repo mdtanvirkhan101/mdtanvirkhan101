@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Tanvir Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">On a path to becoming a Future-focused Network Engineer with hands-on experience with cybersecurity, virtualization and network systems. An individual willing to change learn and lead in technology form Bangladesh 🇧🇩🇧🇩.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtanvirkhan101&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirkhan101" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mdtanvirkhan101&label=Profile%20views&color=0e75b6](https://media.licdn.com/dms/image/v2/D4D16AQE4BHZHdnA63Q/profile-displaybackgroundimage-shrink_350_1400/B4DZT.cdFAGkAY-/0/1739435661280?e=1757548800&v=beta&t=2yF-nz4LJWKGz2hAHvm6YGtp_uxi8FOSyDegvsMDcPo)&style=flat" alt="mdtanvirkhan101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirkhan101" alt="mdtanvirkhan101" /></a> </p>
 
